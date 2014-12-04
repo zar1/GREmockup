@@ -1,0 +1,9 @@
+An interface designed to simulate taking the GRE circa 2011. The available 
+buttons available and behavior is accurate to the way that the GRE worked at
+the time. I wrote this app so that I would be able to utilize a written 
+practice test but still be able to input answers as if I were taking the 
+actual test.
+
+Usage: python mockup.py
+
+Requires python-glade
